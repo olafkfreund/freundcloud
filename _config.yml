@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [www.freundcloud.com]
 description: [My documentation and some micro blogging]
+show_downloads: "false"
